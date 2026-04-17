@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GuardianAngel" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_red</item>
+        <item name="colorSecondary">@color/secondary_orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        
+        <!-- Default text appearance -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+    </style>
+</resources>

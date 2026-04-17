@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guardian Angel</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sos_button">SOS</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="contacts">Contacts</string>
+    <string name="settings">Settings</string>
+</resources>
